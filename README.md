@@ -8,7 +8,7 @@ O objetivo deste projeto foi criar um cartão responsivo com um código QR, segu
 
 ### Preview
 
-![Preview do QR code component](./design/screenshot.png)
+![Preview do QR code component](src/design/screenshot.png)
 
 ## Tecnologias utilizadas
 
