@@ -35,6 +35,8 @@ Durante o desenvolvimento, pratiquei:
 ```text
 .
 ├── index.html
+├── style-guide.md
+└── src/
 ├── styles.css
 ├── images/
 │   ├── favicon-32x32.png
