@@ -1,0 +1,27 @@
+# Design source files
+*.sketch
+*.fig
+
+*.xd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and local workspace files
+.vscode/
+.idea/
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Project assistant configuration
+AGENTS.md
+CLAUDE.md
+style-guide.md
